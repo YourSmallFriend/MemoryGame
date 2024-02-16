@@ -1,0 +1,10 @@
+C:\Users\samuel\OneDrive - COG\school\C#\memory-game\memory game\bin\Release\memory game.exe.config
+C:\Users\samuel\OneDrive - COG\school\C#\memory-game\memory game\bin\Release\memory game.exe
+C:\Users\samuel\OneDrive - COG\school\C#\memory-game\memory game\bin\Release\memory game.pdb
+C:\Users\samuel\OneDrive - COG\school\C#\memory-game\memory game\obj\Release\memory game.csproj.AssemblyReference.cache
+C:\Users\samuel\OneDrive - COG\school\C#\memory-game\memory game\obj\Release\memory_game.Form1.resources
+C:\Users\samuel\OneDrive - COG\school\C#\memory-game\memory game\obj\Release\memory_game.Properties.Resources.resources
+C:\Users\samuel\OneDrive - COG\school\C#\memory-game\memory game\obj\Release\memory game.csproj.GenerateResource.cache
+C:\Users\samuel\OneDrive - COG\school\C#\memory-game\memory game\obj\Release\memory game.csproj.CoreCompileInputs.cache
+C:\Users\samuel\OneDrive - COG\school\C#\memory-game\memory game\obj\Release\memory game.exe
+C:\Users\samuel\OneDrive - COG\school\C#\memory-game\memory game\obj\Release\memory game.pdb
